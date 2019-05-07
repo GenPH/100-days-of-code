@@ -9,3 +9,11 @@
 
 **Link(s) to work**
 None yet, work in progress.
+
+### Day 1: May 6, Tuesday
+**Today's Progress**: Did some Visual Design training in FreeCodeCamp, grinded SoloLearn HTML challenges.
+
+**Thoughts** CSS is harder than HTML for sure; trying to fit all the colors and gradients is hard.
+
+**Link(s) to work**
+None yet, work in progress.
