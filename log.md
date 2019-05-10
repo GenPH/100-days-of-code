@@ -25,3 +25,19 @@ None yet, work in progress.
 
 **Link(s) to work**
 None yet, work in progress.
+
+### Day 4: May 9, Thursday
+**Today's Progress**: Late update, Visual Design and Flexbox stuff, started Tribute Page on FreeCodeCamp
+
+**Thoughts** Flexbox is great and isn't as hard as I thought, it's much easier organizing the webpage now.
+
+**Link(s) to work**
+None yet, work in progress.
+
+### Day 5: May 10, Friday
+**Today's Progress**: CSS Grid mostly, less work done today.
+
+**Thoughts** CSS Grid really got some ideas brewing, might make a maths game when I return to jS using Grid elements.
+
+**Link(s) to work**
+None yet, work in progress.
