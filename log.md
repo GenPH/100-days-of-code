@@ -41,3 +41,11 @@ None yet, work in progress.
 
 **Link(s) to work**
 None yet, work in progress.
+
+### Day 6: May 11, Saturday
+**Today's Progress**: Finished the Web Design exercises prior to the projects.
+
+**Thoughts** It's still difficult to fully focus on programming but I'm working on it; rest assured I will get on track and do the most the upcoming days, especially with the projects. Cheers!
+
+**Link(s) to work**
+None yet, work in progress, hopefully for the last time.
